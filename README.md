@@ -13,6 +13,8 @@ AI Model is Based On The A* Algorithm.
 
 To Know More About Our Little Project: https://www.youtube.com/watch?v=Wn_JvJzvt_s
 
-Link Of The Presentation: https://docs.google.com/presentation/d/1cfXikagRc4caVJKoqMCynzgFXW0em5a4/edit?usp=sharing&ouid=109119954769956085764&rtpof=true&sd=true
+The Presentation: https://docs.google.com/presentation/d/1cfXikagRc4caVJKoqMCynzgFXW0em5a4/edit?usp=sharing&ouid=109119954769956085764&rtpof=true&sd=true
 
-Link Of Project Files: 
+Project Files: https://mega.nz/file/VFkUkQqJ#jUPM-5J0hzsE3Tk2H8W5DuzCKICSmGU3l65xOpiAQ6U
+
+![image](https://github.com/Ammar-Barakat/Artificial-Intelligence-Project-2024/assets/113832578/66864c39-2015-42e3-bbee-45f3ed2a3073)
